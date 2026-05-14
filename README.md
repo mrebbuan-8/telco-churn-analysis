@@ -7,7 +7,6 @@ A comprehensive machine learning pipeline for predicting customer churn in a tel
 ## Business Output
 
 - `churn_predictions_final.csv` — churn risk score and probability for every customer
-- `churn_risk_by_segment.csv` — revenue at risk and recommended retention strategies by customer segment
 
 ---
 
